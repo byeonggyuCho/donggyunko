@@ -7,9 +7,7 @@ import Footer from "./containers/Footer";
 import Content from "./containers/Content";
 import Content2 from "./containers/Content2";
 
-const AppBody = styled.div`
-  /* padding: 0 32px; */
-`;
+const AppBody = styled.div``;
 
 function App() {
   return (
